@@ -12,6 +12,7 @@
     <modules>
         <module>HDFSClient</module>
         <module>MapReduceDemo</module>
+        <module>YarnDemo</module>
     </modules>
 
 
